@@ -1,0 +1,64 @@
+#cricketTeam {
+  background-color: palevioletred;
+  border: 10px solid black;
+  border-radius: 30px;
+  text-align: center;
+  box-shadow: 10px 10px 10px black;
+  font-size: 2rem;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+div {
+  display: inline-block;
+  background-color: lightgoldenrodyellow;
+  width: 400px;
+  height: 450px;
+  border: 5px solid black;
+  text-align: center;
+  padding: 30px;
+  margin: 10px;
+}
+
+#captainCsk {
+  background-image: url(./images/CSK\ logo.png);
+  background-size: 200px 200px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+
+#captainMi {
+  background-image: url(./images/MI\ logo.png);
+  background-size: 180px 180px;
+  background-repeat: no-repeat;
+  background-position: 150px 300px;
+}
+
+#captainSrh {
+  background-image: url(./images/SRH\ logo.png);
+  background-size: 300px 300px;
+  background-repeat: no-repeat;
+  background-position: 80px 250px;
+  background-color: lightpink;
+  background-clip: content-box;
+}
+
+#captainRcb {
+  background-image: url(./images/RCB\ logo.png);
+  background-repeat: no-repeat;
+  background-position: -1650px -1400px;
+  background-attachment: fixed;
+}
+
+p {
+  text-align: justify;
+}
+
+body {
+  background-image: url(./images/cricket\ logo1.gif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
